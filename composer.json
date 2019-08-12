@@ -1,0 +1,28 @@
+{
+  "name": "cainaru/ds_stlawu_date_formats",
+  "type": "drupal-custom-module",
+  "description": "Date formats used for Digital Scholarship.",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://github.com/cainaru/ds_stlawu_date_formats",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "",
+    "source": ""
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://packages.drupal.org/8"
+    },
+    {
+      "type": "composer",
+      "url": "https://asset-packagist.org"
+    }
+  ],
+  "require": {
+    "drupal/core": "~8",
+    "drupal/features": "^3.8",
+    "oomphinc/composer-installers-extender": "^1.1"
+  }
+}
