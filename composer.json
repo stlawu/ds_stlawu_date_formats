@@ -10,16 +10,16 @@
     "issues": "",
     "source": ""
   },
-  "repositories": [
-    {
+  "repositories": {
+    "drupal": {
       "type": "composer",
       "url": "https://packages.drupal.org/8"
     },
-    {
+    "asset-packagist": {
       "type": "composer",
       "url": "https://asset-packagist.org"
     }
-  ],
+  },
   "require": {
     "drupal/core": "~8",
     "drupal/features": "^3.8",
