@@ -5,5 +5,5 @@ core: 8.x
 package: 'STLAWU Digital Scholarship'
 dependencies:
   - drupal:datetime
-  - drupal:field
   - features:features
+  - drupal:field
