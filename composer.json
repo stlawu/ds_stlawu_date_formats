@@ -1,10 +1,10 @@
 {
-  "name": "cainaru/ds_stlawu_date_formats",
+  "name": "stlawu/ds_stlawu_date_formats",
   "type": "drupal-custom-module",
   "description": "Date formats used for Digital Scholarship.",
   "keywords": ["Drupal"],
   "license": "GPL-2.0+",
-  "homepage": "https://github.com/cainaru/ds_stlawu_date_formats",
+  "homepage": "https://github.com/stlawu/ds_stlawu_date_formats",
   "minimum-stability": "dev",
   "support": {
     "issues": "",
